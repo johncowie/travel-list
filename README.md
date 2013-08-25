@@ -5,6 +5,9 @@ Clothes
   - standards clothes
   - Waterproof
   - Waterproof overtrousers
+  - Outdoor shoes
+  - Running shoes
+  - Converse
 
 Music
   - microphone
