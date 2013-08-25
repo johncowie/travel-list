@@ -34,3 +34,10 @@ Health
   - mosquito net
   - deet
   - sun cream
+
+Documents
+  - 4 x passport photos
+  - Copy of passport
+  - yellow fever certificate
+  - $100 USD for special pass
+  - Copy of TW employment contract
