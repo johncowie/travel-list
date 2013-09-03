@@ -8,6 +8,7 @@ Clothes
   - Outdoor shoes
   - Running shoes
   - Converse
+  - Towel
 
 Music
   - microphone
@@ -34,6 +35,10 @@ Health
   - mosquito net
   - deet
   - sun cream
+
+Other
+  - Binoculars
+  - Swiss army knife
 
 Documents
   - 4 x passport photos
